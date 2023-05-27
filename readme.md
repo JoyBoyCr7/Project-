@@ -24,6 +24,8 @@ $.ajax("https://www.balldontlie.io/api/v1/players/?search=lebron")
 
 ![](https://i.imgur.com/e6NS7L1.png)
 
+### Details about Difficulties
+
 ### Daily Schedule
 
 | day | TODO|
