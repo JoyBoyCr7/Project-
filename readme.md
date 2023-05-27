@@ -23,3 +23,13 @@ $.ajax("https://www.balldontlie.io/api/v1/players/?search=lebron")
 ### Mockup
 
 ![](https://i.imgur.com/e6NS7L1.png)
+
+### Daily Schedule
+
+| day | TODO|
+|-----|-----|
+| 1 | Set everything up along with the APi|
+| 2 | Get input from users|
+| 3 | Create responses and return them using the API|
+| 4 | Organize all components of the page with CSS|
+| 5 | Go through and add finishing touches making sure everything is working as it should|
